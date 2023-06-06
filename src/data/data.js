@@ -1,14 +1,14 @@
 import Weather from '../assets/projects/4.png'
 import Quiz from '../assets/projects/2.png'
 import Music from '../assets/projects/3.png'
-import News from '../assets/projects/1.png'
+import Exercise from '../assets/projects/1.png'
 
 export const data=[
     {
         id:1,
         name:"Weather Application",
         image:Weather,
-        github:"https://github.com/Olamaryse/News-Catcher-new.git",
+        github:"https://github.com/Olamaryse/Weather-Forecast.git",
         live:"https://not-your-regular-forecast.pages.dev/",
     },
     {
@@ -27,10 +27,10 @@ export const data=[
     },
     {
         id:4,
-        name:"News Application",
-        image:News,
-        github:"https://github.com/Olamaryse/News-Catcher-new.git",
-        live:"https://news-catcher.pages.dev/",
+        name:"Exercise Application",
+        image:Exercise,
+        github:"https://github.com/Olamaryse/exercise-app.git",
+        live:"https://exercise-app.pages.dev/",
     },
 
 
